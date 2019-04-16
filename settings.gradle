@@ -1,1 +1,1 @@
-include ':app', ':vector_drawable'
+include ':app', ':vector_drawable', ':OpenBookAnim'
