@@ -1,1 +1,1 @@
-include ':app', ':vector_drawable', ':OpenBookAnim', ':yoyo_library', ':yoyo_anim', ':library'
+include ':app', ':vector_drawable', ':OpenBookAnim', ':yoyo_library', ':yoyo_anim', ':library', ':mapAnim'
